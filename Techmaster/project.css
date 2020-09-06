@@ -8,12 +8,12 @@ ul {
     list-style-type: none;
     display: flex;
     justify-content: space-between;
-    width: 40%;
+    width: 50%;
     float: right;
-    margin-right: 10px;
+    margin-right: 50px;
 }
 li {
-    margin-top: 23px;
+    margin-top: 25px;
     cursor: pointer;
 }
 a {
@@ -44,7 +44,6 @@ a {
 }
 .background {
     background-color: rgb(245,246,248) ;
-    padding-bottom: 10px;
     padding-top: 10px;
     height: 24%;
     overflow: hidden;
@@ -90,7 +89,6 @@ html, body {
 }
 .background1 {
     background-color: rgb(245,246,248) ;
-    padding-bottom: 10px;
     padding-top: 10px;
     height: 24%;
     overflow: hidden;
