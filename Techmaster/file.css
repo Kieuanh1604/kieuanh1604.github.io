@@ -1,0 +1,22 @@
+p {
+     color: red;
+}
+
+#abc
+    {
+        color: yellow;
+        
+    }
+    a:hover{
+        color: gray
+    }
+a{
+    text-decoration: none;
+}
+.aaa{
+    text-decoration: underline ;
+}
+
+ul {
+    list-style-type: square;
+}
